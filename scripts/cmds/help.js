@@ -147,7 +147,7 @@ module.exports = {
 ⚙️ Version : ${c.version || "1.0"}
 🔐 Permission : ${roleText(c.role)}
 ⏱️ Cooldown : ${c.countDown || 5}s
-👑 Author : ${c.author || "Unknown"}
+👑 Author : ${𝐎𝐦𝐚𝐫 𝐅𝐚𝐫𝐮𝐤"}
 📖 Usage : ${usage}
 ╰───────────────────╯`;
 
