@@ -140,7 +140,7 @@ module.exports = {
 
     const msg = `
 ╭─── COMMAND INFO ───╮
-🔹 Name : ${c.name}
+🔹 Name : ${𝐎𝐦𝐚𝐫 𝐅𝐚𝐫𝐮𝐤}
 📂 Category : ${(c.category || "UNCATEGORIZED").toUpperCase()}
 📜 Description : ${c.longDescription || c.shortDescription || "N/A"}
 🔁 Aliases : ${aliasText}
