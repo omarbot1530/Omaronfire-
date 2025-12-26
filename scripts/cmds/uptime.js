@@ -82,7 +82,7 @@ module.exports = {
 💻 ᴍᴇᴍᴏʀʏ : ${memoryUsage} MB
 👥 ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : ${totalUsers}
 💬 ᴛᴏᴛᴀʟ ᴛʜʀᴇᴀᴅꜱ : ${totalThreads}
-👑 ᴏᴡɴᴇʀ  : 𝐎𝐦𝐚𝐫 𝐅𝐚𝐫𝐮𝐤
+👑 ᴏᴡɴᴇʀ  : ꪮꪑꪖ𝘳 ᠻꪖ𝘳ꪗ𝘬
       `.trim();
 
       await delay(300);
